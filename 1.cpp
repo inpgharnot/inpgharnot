@@ -14,7 +14,7 @@ char szuka(int n, char wybor1)      //tutaj funkcja ktora szuka.
   {
     if(linia==wybor1)
     {
-      switch 👎
+      switch (n)
       {
         case 1:
         {
