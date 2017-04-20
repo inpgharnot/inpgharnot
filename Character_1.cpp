@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>       / to se pisze ja, bo mogę
 
 using namespace std;
 
