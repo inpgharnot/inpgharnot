@@ -12,7 +12,7 @@ int main(void)         //pisze komentatrz po raz 2
         cin >> l;
         cin >> c;
 
-        for (int p=0; p<l; p++)
+        for (int p=0; p<l; p++) //ej byłam wtedy pierwsza to nie fair :(
         {
             for (int j=0; j<c; j++)
             {
