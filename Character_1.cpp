@@ -1,8 +1,8 @@
-#include <iostream>       / to se pisze ja, bo mogę
+#include <iostream>       // to se pisze ja, bo mogę
 
-using namespace std;     /to pisze ja, bo Zuzka nie umie 
+using namespace std;     //to pisze ja, bo Zuzka nie umie 
 
-int main(void)
+int main(void)         //pisze komentatrz po raz 2
 {
     int t,l,c;
     cin >> t;
