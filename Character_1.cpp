@@ -1,6 +1,6 @@
 #include <iostream>       / to se pisze ja, bo mogę
 
-using namespace std;
+using namespace std;     /to pisze ja, bo Zuzka nie umie 
 
 int main(void)
 {
