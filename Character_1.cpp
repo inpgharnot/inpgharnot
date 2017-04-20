@@ -7,7 +7,7 @@ int main(void)         //pisze komentatrz po raz 2
     int t,l,c;
     cin >> t;
 
-    for (int i=0; i<t; i++) //tym razem bede pierwsza!
+    for (int i=0; i<t; i++)       //piszemy po raz pierwszy w dobrym repozytorium xd 
     {
         cin >> l;
         cin >> c;
